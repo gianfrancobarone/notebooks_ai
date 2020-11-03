@@ -1,2 +1,2 @@
 # notebooks_ai
-colab and other notebook for machie learning and data science
+colab and other notebooks reposository for machine learning and data science
